@@ -1,0 +1,1 @@
+Ran an LMR reconstruction to investigate the effects of removing one record in a sparsely populated region of the proxy database to see how that changes the overall temperature reconstruction both globally and locally. 
